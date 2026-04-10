@@ -67,10 +67,10 @@ The project leverages machine learning and computer vision to compare faces from
   <h3> Menu</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img1.png" width="1200"/>
+   
    <h3> Missing Person List (Home page)</h3>
    <p align="center">
-   <img src="[https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img2.png]
-      
+   <img src=" width="1200"/>
 </p>
 
   <h3> Missing Person Profile</h3>
