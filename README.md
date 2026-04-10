@@ -64,4 +64,59 @@ The project leverages machine learning and computer vision to compare faces from
    - Results displayed via web interface
   
    # Project Screenshots :
+  <h3> Menu</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img1.png" width="1200"/>
+   <h3> Missing Person List (Home page)</h3>
+   <p align="center">
+   <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img2.png" width="1200"/>
+</p>
+
+  <h3> Missing Person Profile</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img3.png" width="1200"/>
+</p>
+
+<h3>  Face Detection (Detect a Missing Person)</h3>
+<p>This feature allows users to upload and run facial recognition using the button. 
    
+- Displays error messages if needed
+  
+- Detects face using AI algorithms  
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img4.png" width="1200"/>
+</p>
+
+  <h3> Detection Process and Results</h3>
+  <p>The system displays matching results to help identify the missing person.</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img5.png" width="1200"/>
+</p>
+
+
+<h3> Add a Missing Person</h3>
+<p>Before adding a case, users must authenticate:
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img7.png" width="1200"/>
+</p>
+
+<p>After authentication, users can submit a new missing person case:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img6.png" width="1200"/>
+</p>
+<h3>Validation System</h3>
+
+- Fill a form with personal details and images
+   
+- Data is stored in the database and added to the model dataset
+  
+- The case becomes available for detection and search</p>
+
+- The system checks if the email is already used
+  
+- Prevents duplicate entries
+  
+- Ensures data integrity and reliability
