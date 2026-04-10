@@ -66,15 +66,15 @@ The project leverages machine learning and computer vision to compare faces from
    # Project Screenshots :
   <h3> Menu</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img1.png" width="1200"/>
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img1.png" width="1200"/>
    <h3> Missing Person List (Home page)</h3>
    <p align="center">
-   <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img2.png" width="1200"/>
+   <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img2.png" width="1200"/>
 </p>
 
   <h3> Missing Person Profile</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img3.png" width="1200"/>
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img3.png" width="1200"/>
 </p>
 
 <h3>  Face Detection (Detect a Missing Person)</h3>
@@ -85,13 +85,13 @@ The project leverages machine learning and computer vision to compare faces from
 - Detects face using AI algorithms  
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img4.png" width="1200"/>
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img4.png" width="1200"/>
 </p>
 
   <h3> Detection Process and Results</h3>
   <p>The system displays matching results to help identify the missing person.</p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img5.png" width="1200"/>
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img5.png" width="1200"/>
 </p>
 
 
@@ -99,13 +99,13 @@ The project leverages machine learning and computer vision to compare faces from
 <p>Before adding a case, users must authenticate:
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img7.png" width="1200"/>
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img7.png" width="1200"/>
 </p>
 
 <p>After authentication, users can submit a new missing person case:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/img6.png" width="1200"/>
+  <img src="https://raw.githubusercontent.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/main/images/img6.png" width="1200"/>
 </p>
 <h3>Validation System</h3>
 
