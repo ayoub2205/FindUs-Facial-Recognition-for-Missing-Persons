@@ -8,10 +8,6 @@ The project leverages machine learning and computer vision to compare faces from
 - Detect and identify missing persons in real time or from images
 - Improve the accuracy of person matching using deep learning models
 - Provide a user-friendly interface for reporting and searching
-# System architecture
-<p align="center">
-   <img src="https://github.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons/blob/d9eed471415b8f5e94eb1278335a3f2fcfac231f/images/img2.png" width="1200"/>
-</p>
 
 # Features
 - Face detection and recognition
