@@ -121,3 +121,35 @@ The project leverages machine learning and computer vision to compare faces from
 - Prevents duplicate entries
   
 - Ensures data integrity and reliability
+
+# Getting Started :
+**Installation**
+1. Clone the repository
+   ```bash
+   git clone https://github.com/ayoub2205/FindUs-Facial-Recognition-for-Missing-Persons.git
+   
+2. Navigate to project folder :
+   ```bash
+   cd FindUs-Facial-Recognition-for-Missing-Persons
+   
+**Usage**
+1. Run the backend server :
+   ```bash
+   python app.py
+   
+3. Open your browser:
+   ```bash
+   http://localhost:5000
+   
+**Project structure**
+```bash
+FindUs/
+│
+├── dataset/
+├── models/
+├── static/
+├── templates/
+├── app.py
+├── train.py
+├── requirements.txt
+└── README.md
